@@ -1,4 +1,5 @@
-require 'capybara' 
+require 'capybara'
+require 'capybara/cucumber' 
 require 'cucumber'
 require 'selenium-webdriver'
 

@@ -43,6 +43,20 @@ GEM
     rack (1.6.10)
     rack-test (0.7.0)
       rack (>= 1.0, < 3)
+    rake (12.3.1)
+    rspec (3.7.0)
+      rspec-core (~> 3.7.0)
+      rspec-expectations (~> 3.7.0)
+      rspec-mocks (~> 3.7.0)
+    rspec-core (3.7.1)
+      rspec-support (~> 3.7.0)
+    rspec-expectations (3.7.0)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.7.0)
+    rspec-mocks (3.7.0)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.7.0)
+    rspec-support (3.7.1)
     rubyzip (1.2.1)
     selenium-webdriver (3.13.1)
       childprocess (~> 0.5)
@@ -56,6 +70,8 @@ PLATFORMS
 DEPENDENCIES
   capybara
   cucumber
+  rake
+  rspec
   selenium-webdriver
 
 BUNDLED WITH

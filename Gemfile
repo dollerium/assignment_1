@@ -1,4 +1,10 @@
-source 'https://rubygems.org'
- gem 'capybara'
- gem 'cucumber'
- gem 'selenium-webdriver'
+source "https://rubygems.org"
+
+gem 'rake'
+
+group(:test) do
+  gem 'cucumber'
+  gem 'capybara'
+  gem 'rspec'
+  gem 'selenium-webdriver'
+end
