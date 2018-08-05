@@ -1,8 +1,8 @@
-Given /^I am on Redfin's login page$/ do
+Given ("I am on Redfin's website") do
   visit('https://www.redfin.com')
 end
 
-Given /^I enter valid credentials$/ do
+Given ("I enter valid credentials") do
   click_button('Log In')
   click_button('Continue with Email')
   fill_in('emailInput', :with => 'jbarrowstest@yopmail.com')
@@ -10,6 +10,6 @@ Given /^I enter valid credentials$/ do
   click_button('Sign In')
 end
 
-Then /^I will be able to successfully login and confirm sign in$/ do
+Then ("I will be able to successfully login and confirm sign in") do
   page.find(:css, '#userMenu > div > span > span.name')
 end

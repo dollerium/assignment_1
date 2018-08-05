@@ -7,4 +7,5 @@ group(:test) do
   gem 'capybara'
   gem 'rspec'
   gem 'selenium-webdriver'
+  gem 'helpers'
 end
