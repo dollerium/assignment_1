@@ -5,11 +5,17 @@ The assignment_1 repo consists of tests for the Redfin website, utilizing both t
 ## Prerequisites
 
 User is familiar with command line prompts.
+
 User is working on the latest stable version of Ubuntu (currently 18.04).
+
 User has created a Github account and added their keys associated with the Ubuntu machine.
+
 Ruby is installed on the Ubuntu machine.
+
 Chrome and Chromedriver are installed on the Ubuntu machine.
-The following gems are installed on the machine: rails and bundler.
+
+The following ```bundler``` gem is installed on the Ubuntu machine.
+
 User has cloned the "assignment_1" repo to the Ubuntu machine.
 
 ## Installations
