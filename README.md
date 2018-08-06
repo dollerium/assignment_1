@@ -18,20 +18,6 @@ The following ```bundler``` gem is installed on the Ubuntu machine.
 
 User has cloned the "assignment_1" repo to the Ubuntu machine.
 
-## Installations
-
-1. Within the Terminal, change directories to the location in which the assignment_1 repo is cloned to (e.g ''''cd assignment_1'''').
-2. Enter the following command: ''''bundle installAssignment one consists of logging in to Redfin and utilizing Redfin's search functionality.
-
-## Prerequisites
-
-User is familiar with command line prompts.
-User is working on the latest stable version of Ubuntu (currently 18.04).
-User has created a Github account and added their keys associated with the Ubuntu machine.
-Ruby is installed on the Ubuntu machine.
-Chrome and Chromedriver are installed on the Ubuntu machine.
-The following gems are installed on the machine: rails and bundler.
-User has cloned the "assignment_1" repo to the Ubuntu machine.
 
 ## Installations
 After the user has cloned the assignment_1 repo to their Ubuntu machine, they will need to install all gems associated with the assignment_1 tests.
