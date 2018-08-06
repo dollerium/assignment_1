@@ -12,11 +12,11 @@ User has created a Github account and added their keys associated with the Ubunt
 
 Ruby is installed on the Ubuntu machine.
 
-Chrome and Chromedriver are installed on the Ubuntu machine.
+Chrome and Chromedriver are installed.
 
-The following ```bundler``` gem is installed on the Ubuntu machine.
+The ```bundler``` gem is installed.
 
-User has cloned the "assignment_1" repo to the Ubuntu machine.
+User has cloned the "assignment_1" repo.
 
 
 ## Installations
